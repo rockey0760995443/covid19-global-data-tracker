@@ -1,0 +1,10 @@
+location,date,total_cases,total_deaths,new_cases,continent
+World,2020-01-01,0,0,0,World
+World,2020-01-02,1,0,1,World
+World,2020-01-03,5,0,4,World
+United States,2020-01-01,0,0,0,North America
+United States,2020-01-02,3,0,3,North America
+United States,2020-01-03,8,0,5,North America
+India,2020-01-01,0,0,0,Asia
+India,2020-01-02,0,0,0,Asia
+India,2020-01-03,1,0,1,Asia
